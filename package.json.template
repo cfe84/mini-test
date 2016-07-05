@@ -1,0 +1,22 @@
+{
+  "name": "Mini-test",
+  "version": "%VERSION%",
+  "description": "Mini assertion framework that does shit.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfe84/mini-test"
+  },
+  "keywords": [
+
+  ],
+  "author": "Charles Feval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfe84/mini-test/issues"
+  },
+  "homepage": "https://github.com/cfe84/mini-test#readme"
+}
