@@ -1,5 +1,5 @@
 {
-  "name": "Mini-test",
+  "name": "mini-test",
   "version": "%VERSION%",
   "description": "Mini assertion framework that does shit.",
   "main": "test.js",
