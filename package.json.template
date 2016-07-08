@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/cfe84/mini-test/issues"
   },
-  "homepage": "https://github.com/cfe84/mini-test#readme"
+  "homepage": "https://github.com/cfe84/mini-test#readme",
+  "dependencies": {
+    "colors": "1.1.2"
+  }
 }

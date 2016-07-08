@@ -1,11 +1,11 @@
-# mini-test
-Mini test framework for node js
+# Mini-test
+Mini assertion framework for node js
 
-# usage
+# Usage
 
 ```js
 
-Test = require("mini-test");
+Test = require("mini-test")("Test name");
 
 assert = Test "This tests shit";
 
@@ -23,3 +23,7 @@ assert.that(undefined).isUndefined(); // Success!
 assert.that(actual).isNot(undefined); // Success!
 assert.that(actual).compares(function(result) { return result === actual; }, "Comparison failed!"); // Success!
 ```
+
+# Changelog
+
+v1.1 - Add an overall test name
